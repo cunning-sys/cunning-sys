@@ -1,1 +1,5 @@
-hi i do stuff lol
+# [catgirl.cc](discord.gg/catgirlcc)
+
+```lua
+loadstring()
+```
